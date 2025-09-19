@@ -2,7 +2,7 @@
 This is my first repository on git hub
 I am using this repo to practice Git and GitHub basic.
 
-#Features
+#Features_
 -Basic Git commands practice
 -Learning version control
 -First step towards open source
