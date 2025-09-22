@@ -2,14 +2,20 @@
 This is my first repository on git hub.
 I am using this repo to practice Git and GitHub basic.
 
-## Features
+# Features
 -Basic Git commands practice
 -Learning version control
 -First step towards open source
 
-## Creator
+# Creator
 Name: Dheeraj Sharma.
 
-## Thank You
+# Thank You
 Thanks for visiting my repository!
+
+# Team
+Frontend - Alpha
+Backend - Beta
+DBMS - Gamma
+
 
