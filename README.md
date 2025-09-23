@@ -17,5 +17,7 @@ Thanks for visiting my repository!
 Frontend - Alpha
 Backend - Beta
 DBMS - Gamma
-
+ 
+# About Me
+I am hardworing and quick learner.
 
