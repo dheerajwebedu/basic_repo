@@ -8,7 +8,7 @@ I am using this repo to practice Git and GitHub basic.
 -First step towards open source
 
 # Creator
-Name: Dheeraj Sharma.
+Name: Dheeraj
 
 # Thank You
 Thanks for visiting my repository!
@@ -20,4 +20,3 @@ DBMS - Gamma
  
 # About Me
 I am hardworing and quick learner.
-
