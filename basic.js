@@ -14,10 +14,10 @@ console.log(a * b)
 console.log(a / b)
 
 //5.Power(Exponenatiation)--(**)
-console.log(50 ** 2)
+console.log(a ** b)
 
 //6. Modulous (reminder)(%)
-console.log(10 % 3)
+console.log(a % b)
 
 //7. Increment(++) = +1
 console.log(++a) //a = 101
