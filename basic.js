@@ -1,15 +1,3 @@
-let a = 100;
-console.log(a)
-
-let b = 50;
-console.log(b)
-
-let c = 150
-console.log("a", c)
-
-let d = 200;
-console.log(d)
-
 
 // Oprations
 // 1. Addition(+)
