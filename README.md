@@ -8,7 +8,7 @@ I am using this repo to practice Git and GitHub basic.
 -First step towards open source
 
 # Creator
-Name: Dheeraj
+DHEERAJ
 
 # Thank You
 Thanks for visiting my repository!
